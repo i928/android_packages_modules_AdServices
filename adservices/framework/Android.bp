@@ -97,6 +97,7 @@ java_library {
     max_sdk_version: "32",
     visibility: [
         "//device/google:__subpackages__",
+        "//device/xiaomi:__subpackages__",
         "//external/chromium-webview:__subpackages__",
         "//packages/modules/AdServices:__subpackages__",
         "//packages/modules/ExtServices:__subpackages__",
